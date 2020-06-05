@@ -1,0 +1,350 @@
+#EXTM3U
+#EXTINF:-1 group-title="MY_INDIA",& TV
+https://y5w8j4a9.ssl.hwcdn.net/andtvsd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",& TV HD
+http://45.120.188.76:8080/0.ts
+#EXTINF:-1 group-title="MY_INDIA",& TV HD
+http://tv.flametv.design/zeee.m3u8?c=andtvhd
+#EXTINF:-1 group-title="MY_INDIA",& TV HD
+https://y5w8j4a9.ssl.hwcdn.net/andtvhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",&Explore HD
+http://tv.flametv.design/zeee.m3u8?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88
+#EXTINF:-1 group-title="MY_INDIA",&Flix
+http://tv.flametv.design/zeee.m3u8?c=andflixhd
+#EXTINF:-1 group-title="MY_INDIA",&Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",&Flix HD
+http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",&Flix hindi
+http://z5amshls.akamaized.net/andflix/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",&Picture
+http://tv.flametv.design/zeee.m3u8?c=andpicshd
+#EXTINF:-1 group-title="MY_INDIA",&Picture
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",&Prive
+http://tv.flametv.design/zeee.m3u8?c=andprivehd
+#EXTINF:-1 group-title="MY_INDIA",&Prive
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",&Prive HD
+http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",&TV
+http://tv.flametv.design/zeee.m3u8?c=andtvsd
+#EXTINF:-1 group-title="MY_INDIA",9X Jalwa
+http://z5amshls.akamaized.net/9xjalwa/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",9X M
+http://z5amshls.akamaized.net/9xm/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",9xjalwa
+http://tv.flametv.design/zeee.m3u8?c=9xjalwa
+#EXTINF:-1 group-title="MY_INDIA",9xm
+http://tv.flametv.design/zeee.m3u8?c=9xm
+#EXTINF:-1 group-title="MY_INDIA",AAho Music
+https://v.aaho.tv/live/aahomusic.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Aaj Tak Tej
+https://vidcdn.vidgyor.com/tez-origin/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="MY_INDIA",aajtaak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_3/chunklist.m3u8
+#EXTINF:-1 group-title="MY_INDIA",aajtaak hd
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 group-title="MY_INDIA",ABP News
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Animal Planet HD
+http://streamidvo.multitvsolution.in/live/APHDHindi-a/p3.m3u8
+#EXTINF:-1 group-title="MY_INDIA",ANX HD
+https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 group-title="MY_INDIA",B4U Music
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",B4U Plus
+http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
+#EXTINF:-1 group-title="MY_INDIA",BBC
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Big Magic
+http://tv.flametv.design/zeee.m3u8?c=bigmagic
+#EXTINF:-1 group-title="MY_INDIA",Big Magic
+https://y5w8j4a9.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Big Magic
+http://z5amshls.akamaized.net/bigmagic/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",bindass
+http://45.120.188.65:8080/0.ts
+#EXTINF:-1 group-title="MY_INDIA",Bollywood Classic
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="MY_INDIA",Bollywood HD
+https://a.jsrdn.com/broadcast/j4jhsgg89/c.m3u8
+#EXTINF:-1 group-title="MY_INDIA",BOLLYWOOD HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1 group-title="MY_INDIA",Bollywood Now
+https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Cine Voice
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+#EXTINF:-1 group-title="MY_INDIA",CNBC 18 News
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
+#EXTINF:-1 group-title="MY_INDIA",CNBC AWAZ
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+#EXTINF:-1 group-title="MY_INDIA",CNBC TV 18 D
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1 group-title="MY_INDIA",CNN
+https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
+#EXTINF:-1 group-title="MY_INDIA",CNN18
+https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
+#EXTINF:-1 group-title="MY_INDIA",COLOR_HD
+http://45.120.188.219:80/0.ts
+#EXTINF:-1 group-title="MY_INDIA",Colors
+https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Colors Asia
+https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Colors Infinity
+https://edge01.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",COLORS INFINITY
+https://itpolly.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Colors Rishtey
+https://itpolly.iptv.digijadoo.net/live/rishtey/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Colors Rishtey
+https://edge01.iptv.digijadoo.net/live/rishtey/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",D Sports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 group-title="MY_INDIA",DD Bharati
+http://tv.flametv.design/zeee.m3u8?c=out/v1/03d04d1461114e9083d382ab0054ac2c
+#EXTINF:-1 group-title="MY_INDIA",DD National
+http://tv.flametv.design/zeee.m3u8?c=out/v1/061be0ece7a849939ac2d9031f8fc532
+#EXTINF:-1 group-title="MY_INDIA",DD National
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",DD National
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",DD National
+https://edge01.iptv.digijadoo.net/live/dd_national/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",DD News
+https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="MY_INDIA",Delhi	Aaj Tak
+https://feeds.intoday.in/aajtak/api/dat/master.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Dil Se
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_828_av-p.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Dil Se
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Dilse HUNGAMA Hits
+https://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Discovery
+http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p3.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Discovery ID
+http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Discovery Kids
+http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Discovery Science HD
+http://streamidvo.multitvsolution.in/DiscoverScienceHindi-a/playlist.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Discovery Turbo
+http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Disney jr
+http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Disney_XD_HD_USA
+http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Dsports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg
+#EXTINF:-1 group-title="MY_INDIA",Enterr10
+https://edge01.iptv.digijadoo.net/live/enter_ten/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Epic ND
+http://tv.flametv.design/zeee.m3u8?c=out/v1/71d7807e101d470fbac38441de9c674e
+https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Et Now
+https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
+#EXTINF:-1 group-title="MY_INDIA",ET Now
+https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="MY_INDIA",FOX Life
+https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",History
+https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Hit Music
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:-1 group-title="MY_INDIA",india news
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in_480p/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",India TV
+https://live-indiatvnews.akamaized.net/indiatv-origin/ITV_1_1@199237/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",INDIA TV
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Kadak Hits
+http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_828_av-p.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Kadak HUNGAMA Hits
+https://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Kids Central
+https://simultv.s.llnwi.net/o033/simkidcentral/ngrp:simkidcentral_simul/720p-playlist.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Lok Sabha
+https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="MY_INDIA",M20 Musics
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="MY_INDIA",Maha Movie
+http://streamidvo.multitvsolution.in/live/MahaMovie-a/p3.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Mahamovie
+http://streamidvo.multitvsolution.in/live/MahaMovie-a/p4.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Manoranjan TV
+http://streamidvo.multitvsolution.in/live/ManoranjanTV-b/p4.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Mastiii
+https://edge01.iptv.digijadoo.net/live/mastii/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Movies Now HD
+https://itpolly.iptv.digijadoo.net/live/movies_now/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",MTV Beats
+https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",MTV Beats HD
+https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 group-title="MY_INDIA",NatGeo Wild
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@5.m3u8
+#EXTINF:-1 group-title="MY_INDIA",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
+#EXTINF:-1 group-title="MY_INDIA",NDTV Profit
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/masterp_480p@3.m3u8
+#EXTINF:-1 group-title="MY_INDIA",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",News18 India
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
+#EXTINF:-1 group-title="MY_INDIA",NEWS18 UP
+https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_5_av-p.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Nickelodeon India
+https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Nickelodeon Sonic
+https://edge01.iptv.digijadoo.net/live/sonic/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",NRJ Hits
+https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Pluto Movies
+http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 group-title="MY_INDIA",pogo
+http://45.120.188.207:80/0.ts
+#EXTINF:-1 group-title="MY_INDIA",POP HUNGAMA Hits
+https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
+#EXTINF:-1 group-title="MY_INDIA",pop pataka
+http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="MY_INDIA",Prajaa TV
+http://livemedia.ios.wowstream.in:1935/ka-prajaa/prajaa-news/playlist.m3u8
+#EXTINF:-1 group-title="MY_INDIA",PRIME HD
+http://23.186.192.55:8080/live/primeplus/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Public TV
+https://stream-05.sg1.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj3jYcL0xIyDvX_xX_d8tABo)/dm/3/x7rs4mq/s/live-3.m3u8
+#EXTINF:-1 group-title="MY_INDIA",RAI MOVIE HD
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Rajyasabha
+https://nicls2-lh.akamaihd.net/i/rstv_1@26970/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="MY_INDIA",Sab Tv
+https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 group-title="MY_INDIA",Sadhna
+http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Shemaroo Bollywood Premier
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Shemaroo Classic
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1280x720_cf.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Shemaroo Hindi
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1 group-title="MY_INDIA",shemaroome
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Sony
+https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 group-title="MY_INDIA",Sony BBC Earth HD
+https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 group-title="MY_INDIA",Sony Max HD
+https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 group-title="MY_INDIA",Sony Pix
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 group-title="MY_INDIA",Sony Six
+https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 group-title="MY_INDIA",SONY SIX
+https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
+#EXTINF:-1 group-title="MY_INDIA",Sony TEN1 HD
+https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 group-title="MY_INDIA",Sony TEN2 HD
+https://sony247channels.akamaized.net/hls/live/2004803/SONYTEN2HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 group-title="MY_INDIA",SONY TEN3 HD
+https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 group-title="MY_INDIA",Sony YAY
+https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 group-title="MY_INDIA",Star Bharat
+https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Star Gold
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Star Gold
+https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Star Gold International
+https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Star Gold2
+https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Star Plus
+https://edge01.iptv.digijadoo.net/live/star_plus/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Star Plus
+https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Star World
+https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Star World
+https://edge01.iptv.digijadoo.net/live/star_world/playlist.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Star_Plus_hd
+https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",SURYA SAMACHAR
+http://barcosys.livebox.co.in/suryasamacharhls/suryasamachar.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Times Now HD
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+#EXTINF:-1 group-title="MY_INDIA",TLC
+http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Tom & Jerry
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
+#EXTINF:-1 group-title="MY_INDIA",VH1
+https://itpolly.iptv.digijadoo.net/live/vh1/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Videocon
+http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",WION
+http://z5amshls.akamaized.net/wion/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Zee Anmol
+http://z5amshls.akamaized.net/zeeanmol/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",ZEE ANMOL CINEMA
+http://z5amshls.akamaized.net/zanmolcnm/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Zee Bollywood
+http://z5amshls.akamaized.net/classic/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Zee Bollywood
+http://tv.flametv.design/zeee.m3u8?c=classic
+#EXTINF:-1 group-title="MY_INDIA",Zee Cafe
+https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Zee Cafe HD
+http://z5amshls.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Zee Cafe HD
+http://tv.flametv.design/zeee.m3u8?c=zeecafehd
+#EXTINF:-1 group-title="MY_INDIA",Zee Cafe HD
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Zee Cinema
+http://tv.flametv.design/zeee.m3u8?c=out/v1/14c290cdde854265b74f78b102f6ecd8
+#EXTINF:-1 group-title="MY_INDIA",Zee Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Zee Cinema
+https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Zee Cinema HD
+http://tv.flametv.design/zeee.m3u8?c=zcinemahd
+#EXTINF:-1 group-title="MY_INDIA",Zee Cinema ME
+http://z5amshls.akamaized.net/zeecinemame/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Zee Cinema UK
+http://z5amshls.akamaized.net/cinemauk/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Zee Classic
+https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Zee ETC
+http://z5amshls.akamaized.net/etc/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Zee News
+http://tv.flametv.design/zeee.m3u8?c=zeenews
+#EXTINF:-1 group-title="MY_INDIA",Zee News
+https://y5w8j4a9.ssl.hwcdn.net/zeenews/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Zee Theatre
+http://tv.flametv.design/zeee.m3u8?c=out/v1/9b9f434518cc489f9260e24b5768ef55
+#EXTINF:-1 group-title="MY_INDIA",Zee TV
+http://tv.flametv.design/zeee.m3u8?c=out/v1/ea6fe7c79c6f494792e1ee846b4a5259
+#EXTINF:-1 group-title="MY_INDIA",Zee TV
+https://y5w8j4a9.ssl.hwcdn.net/zeetvhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Zee TV HD
+http://tv.flametv.design/zee5.php?c=zeetvhd
+#EXTINF:-1 group-title="MY_INDIA",zee_hindustan
+http://z5amshls.akamaized.net/hindustan/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Zing
+http://z5amshls.akamaized.net/zing/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Zing
+https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Zoom
+https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
+#EXTINF:-1 group-title="MY_INDIA",Zoom
+https://edge01.iptv.digijadoo.net/live/zoom/playlist.m3u8
